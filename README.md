@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-So some people call me "Shob" and Iam Backend Developer at Twiscode. At work I usually play with Go-lang, and still love Laravel.
+So some people call me "Shob" and Iam Backend Developer at Twiscode. 
+At work I usually play with Go-lang, and still love Laravel.
 And this is where the activity is usually:
 
 [![Website](https://img.shields.io/static/v1?label=%20&message=Website&logo=google-chrome&style=flat&labelColor=grey&logoColor=white)](http://ahmadshobirin.com/)
